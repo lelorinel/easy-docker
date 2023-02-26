@@ -1,6 +1,6 @@
 ### Easy Docker
 
-This is a simple Docker image that can be used to run a single command in a container. It is useful for running a single command in a container without having to build a Dockerfile.
+This is a tool that allows you to prepare a container file automatically.
 
 #### Usage
 
